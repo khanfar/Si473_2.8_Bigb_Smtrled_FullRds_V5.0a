@@ -1,0 +1,83 @@
+i bottoni da ingrandire nella libreria Button.h sono le seguenti tabelle :
+
+
+-HAM -
+const uint16_t But_Band_Width = 80;      // portare 80 a 120
+const uint16_t But_Band_Height = 23;     // portare 23 a 30
+     
+const uint16_t But_Band_AmberWidth = 80;
+const uint16_t But_Band_AmberHeight = 23;
+
+const uint16_t But_Band_BlueWidth = 80;
+const uint16_t But_Band_BlueHeight = 23;
+
+const uint16_t But_Band_RedWidth = 80;
+const uint16_t But_Band_RedHeight = 23;
+
+const uint16_t But_Band_BlackWidth = 80;
+const uint16_t But_Band_BlackHeight = 23;
+
+const uint16_t But_Band_GreenWidth = 80;
+const uint16_t But_Band_GreenHeight = 23;
+
+
+
+-BROAD- 
+const uint16_t But_S60_Width = 60;     //  portare  60  a 80
+const uint16_t But_S60_Height = 23;    //  portare  23  a 30
+
+const uint16_t But_S60_AmberWidth = 60;
+const uint16_t But_S60_AmberHeight = 23;
+
+const uint16_t But_S60_BlackWidth = 60;
+const uint16_t But_S60_BlackHeight = 23;
+
+const uint16_t But_S60_BlueWidth = 60;
+const uint16_t But_S60_BlueHeight = 23;
+
+const uint16_t But_S60_RedWidth = 60;
+const uint16_t But_S60_RedHeight = 23;
+
+const uint16_t But_S60_GreenWidth = 60;
+const uint16_t But_S60_GreenHeight = 23;
+
+
+
+-FREQ-
+
+const uint16_t But_Key_Width = 50;        //  portare tutti i Width 50  a 90
+const uint16_t But_Key_Height = 50;
+
+const uint16_t But_Key_GreenWidth = 50;
+const uint16_t But_Key_GreenHeight = 50;
+
+const uint16_t But_Key_RedWidth = 50;
+const uint16_t But_Key_RedHeight = 50;
+
+
+
+-MODE-
+const uint16_t But_Mode_Width = 90;      //  portare  90 a 200
+const uint16_t But_Mode_Height = 23;     //  portare  23 a 45
+
+const uint16_t But_Mode_BlueWidth = 90;
+const uint16_t But_Mode_BlueHeight = 23;
+
+const uint16_t But_Mode_GreenWidth = 90;
+const uint16_t But_Mode_GreenHeight = 23;
+
+const uint16_t But_Mode_RedWidth = 90;
+const uint16_t But_Mode_RedHeight = 23;
+
+const uint16_t But_Mode_AmberWidth = 90;
+const uint16_t But_Mode_AmberHeight = 23;
+
+const uint16_t But_Mode_BlackWidth = 90;
+const uint16_t But_Mode_BlockHeight = 23;   ( errore? correggere)
+
+-STEP-
+
+IDEM usa la stessa conf. del Mode
+
+-FILTER- 
+Usa la stessa conf. di Mode    (provare...)
