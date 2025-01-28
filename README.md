@@ -1,4 +1,11 @@
 # SI4735-Radio-ESP32-2.8 inch TFT Touchscreen-Arduino
+
+![SI4732_Radio schematics](https://github.com/user-attachments/assets/2831e412-caf6-471a-a71d-23c953083222)
+
+![SI4735-Radio Schematic](https://github.com/user-attachments/assets/073eec96-7ce8-422b-98e8-41cf8d2b2ee5)
+
+
+
 This sketch is using the SI4735 library and SSB patch developed by Ricardo PU2CLR.
 The sketch is developed for running at a ESP32 WROOM-32, a 2.8 inch 240*320 Touchscreen with an ILI9341 controler 
 and Rotary Encoder with Switch.
