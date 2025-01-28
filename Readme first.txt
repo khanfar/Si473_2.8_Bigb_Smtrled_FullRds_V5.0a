@@ -84,4 +84,4 @@ Program features :
     Remember :-  the .ino sketch is modified by me...  V.5.0 ....if you want original sketch you can found
                  in :- https://github.com/pe0mgb/SI4735-Radio-ESP32-Touchscreen-Arduino  
 
-   Ciao 73 de Antonino IU4ALH - Ferrara - Italy
+   
